@@ -18,7 +18,10 @@ Jaya Jaya Maju adalah perusahaan multinasional yang telah berdiri sejak tahun 20
 
 ### Persiapan
 
-Sumber data: [Jaya Jaya Maju](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee).Setup environment:
+Sumber data: [Jaya Jaya Maju](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee).
+
+
+Setup environment:
 
 * Setup conda environment:
 
@@ -80,4 +83,4 @@ Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna m
 
 Dengan menerapkan rekomendasi ini, perusahaan diharapkan mampu menekan tingkat attrition, meningkatkan kinerja karyawan, serta memperkuat efisiensi dan stabilitas operasional secara menyeluruh.
 
-Berikut link akses Tableau : https://public.tableau.com/app/profile/gibran.faktian.anwar/viz/Dicoding-JayaJayaMaju/Dicoding-JayaJayaMaju
+Berikut link akses Tableau : [Jaya Jaya Maju]([https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee](https://public.tableau.com/app/profile/gibran.faktian.anwar/viz/Dicoding-JayaJayaMaju/Dicoding-JayaJayaMaju)) 
