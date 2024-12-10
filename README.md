@@ -46,23 +46,26 @@ Dashboard ini dibuat untuk memberikan pemahaman menyeluruh kepada tim HR mengena
 * Seberapa berpengaruh faktor kerja ovetime terhadap tingkat attrition
 * Dapat Mengambil tingkatan atau keputusan untuk menekan jumlah Attrition.
 
+![gibran_faktian-dashboard](https://github.com/user-attachments/assets/502102c2-bbec-4ef3-95e4-5cc8bf98f382)
 
-SS
 
 ## Conclusion
 
 1. Berapa persentase tingkat attrition di perusahaan ini?
-
+   
+![image](https://github.com/user-attachments/assets/0ae1d793-bbc1-41cc-b211-84e4b8b4b70a)
 
 Jawaban : Tingkat attrition di perusahaan ini mencapai sekitar 16%. Yang berarti, satu dari enam karyawan meninggalkan perusahaan, yang menunjukkan bahwa tingkat keluar karyawan tergolong tinggi.
 
 2. Seberapa pengaruh kerja overtime (lembur) dalam tingkat penurunan karyawan?
 
-
+![image](https://github.com/user-attachments/assets/28f49105-b377-43c4-b29e-795f6040fa9e)
 
 Jawaban : Sangat berpengaruh. Berdasarkan data, karyawan lebih banyak merasa bahwa bekerja di perusahaan Jaya Jaya Maju ini sering Overtime.
 
 3. Faktor-faktor yang mempengaruhi tingkat Attrition pada Jaya Jaya Maju?
+
+![image](https://github.com/user-attachments/assets/80156d80-7faa-43c4-8369-2b6d050236ce)
 
 
 Jawaban : Overtime dan Marital Status menjadi faktor tertinggi yang mempengaruhi para karyawan untuk meninggalkan Perusahaan.
