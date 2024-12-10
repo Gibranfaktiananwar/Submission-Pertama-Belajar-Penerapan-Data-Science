@@ -79,3 +79,5 @@ Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna m
 - Berikan tools / alat-alat penunjang pekerjaan : pada department Research & Development memiliki tingkat Attrition tertinggi, mungkin dikarenakan tools atau alat-alat penunjang pekerjaan mereka masih belum memadai.
 
 Dengan menerapkan rekomendasi ini, perusahaan diharapkan mampu menekan tingkat attrition, meningkatkan kinerja karyawan, serta memperkuat efisiensi dan stabilitas operasional secara menyeluruh.
+
+Berikut link akses Tableau : https://public.tableau.com/app/profile/gibran.faktian.anwar/viz/Dicoding-JayaJayaMaju/Dicoding-JayaJayaMaju
